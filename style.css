@@ -1,0 +1,30 @@
+html {
+    min-height: 100%;
+}
+
+body {
+
+    background-image: url("./images/fondo.jpg");
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.imagenPerfil {
+    
+    width:10rem;
+    height:10rem;
+    border-radius:50%;
+    border:5px solid #ffff;
+    display:block;
+    margin:auto;
+    margin-top: 12rem;
+}
+.contenido {
+    text-align:center;
+    color:#ffff;
+    font-family: 'Courgette', cursive;
+}
+
